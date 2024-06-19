@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-patilr
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and Web development
 - 💞️ I’m looking to collaborate on web development
   
 
